@@ -19,5 +19,11 @@ Each paper includes:
 
 
 
+# Number of Papers:8
+- Pruning: 4
+- Growing:2
+- Growing + Pruning : 
+- Adaptive Computation:2
 
+  
 Last updated: May 2026
