@@ -1,4 +1,7 @@
-# Inro
+# Intro
+A curated collection of papers on neural network pruning, sparse training, and adaptive sparsification methods. The list will be updated continuously.
+
+
 
 | Title | Year | Paper | Code | Tags |
 |---|---|---|---|---|
