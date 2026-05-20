@@ -14,4 +14,4 @@ Each paper includes:
 - Year
 - Paper link
 - GitHub repository (if available)
-- Tags
+- Keywords
