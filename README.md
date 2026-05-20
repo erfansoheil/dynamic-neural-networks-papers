@@ -5,7 +5,7 @@ A curated list of papers on Dynamic Neural Networks, adaptive architectures, con
 - [Pruning](./pruning/)
 - [Growing](./growing/)
 - [Growing + Pruning](./growing-and-pruning/)
-- [Adaptive-Computation](./adaptive-computation/)
+- [Adaptive Computation](./adaptive-computation/)
 
 ## Paper Format
 
