@@ -1,5 +1,5 @@
 # Pruning Papers
-A curated collection of papers on neural network pruning, sparse training, and adaptive sparsification methods. The list will be updated continuously.
+A curated collection of papers on neural network pruning during training. The list will be updated continuously.
 
 
 
