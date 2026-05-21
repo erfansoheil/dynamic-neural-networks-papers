@@ -19,10 +19,10 @@ Each paper includes:
 
 
 
-# Number of Papers:14
+# Number of Papers:17
 - Pruning: 4
-- Growing:7
-- Growing + Pruning :1 
+- Growing:8
+- Growing + Pruning :3 
 - Adaptive Computation:2
 
   
