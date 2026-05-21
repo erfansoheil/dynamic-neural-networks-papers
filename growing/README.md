@@ -2,6 +2,7 @@
 
 | Title | Year | Paper | Code | Keywords |
 |---|---|---|---|---|
+Growing with Experience: Growing Neural Networks in Deep Reinforcement Learning|2026|[Paper](https://arxiv.org/abs/2506.11706)||Reinforcement Learning|
 Topological derivative approach for deep neural network architecture adaptation|2026|[Paper](https://arxiv.org/abs/2502.06885)||Optimal control theory|
 An Adaptive and Stability-Promoting Layerwise Training Approach for Sparse Deep Neural Network Architecture|2024|[Paper](https://arxiv.org/abs/2211.06860)|| Physics-informed neural network|
 Growing Tiny Networks: Spotting Expressivity Bottlenecks and Fixing Them Optimally| 2024 |[paper](https://arxiv.org/abs/2201.05125)|[Gitlab Inria](https://gitlab.inria.fr/mverbock/tinypub)|Quadratic Programming |
