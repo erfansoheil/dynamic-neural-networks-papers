@@ -1,3 +1,4 @@
+This section collects papers that study dynamic neural networks whose computation changes adaptively without primarily adding or removing model structure during training.
 
 | Title | Year | Paper | Code | Keywords |
 |---|---|---|---|---|
