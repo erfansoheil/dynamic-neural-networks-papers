@@ -1,3 +1,4 @@
+This section collects papers that study neural networks whose structure can both expand and shrink during training.
 
 | Title | Year | Paper | Code | Keywords |
 |---|---|---|---|---|
