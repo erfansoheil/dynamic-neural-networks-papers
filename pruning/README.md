@@ -1,7 +1,5 @@
-# Pruning Papers
-A curated collection of papers on neural network pruning during training. The list will be updated continuously.
-
-
+# Pruning
+This section collects papers that study how neural networks can reduce their structure during training.
 
 | Title | Year | Paper | Code | Keywords |
 |---|---|---|---|---|
