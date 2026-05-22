@@ -1,4 +1,3 @@
-# Pruning
 This section collects papers that study how neural networks can reduce their structure during training.
 
 | Title | Year | Paper | Code | Keywords |
