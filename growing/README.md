@@ -1,4 +1,5 @@
-# Growing Papers
+This section collects papers that study how neural networks can expand their structure during training.
+
 
 | Title | Year | Paper | Code | Keywords |
 |---|---|---|---|---|
