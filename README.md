@@ -4,7 +4,7 @@
 This repository aims to organize research on dynamic neural network adaptation methods, including pruning, growing, topology adaptation, and adaptive computation.
 
 ## Categories
-- [Pruning](./pruning/)
+- [Pruning](./pruning/) : Pruning methods remove unnecessary parameters, neurons, channels, layers, or connections in order to obtain smaller, more efficient, or more interpretable models. In this repository, a paper belongs to this section when the main architectural change is structural removal during training, without explicitly growing new components.
 - [Growing](./growing/)
 - [Growing + Pruning](./growing-and-pruning/)
 - [Adaptive Computation](./adaptive-computation/)
