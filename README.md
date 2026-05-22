@@ -1,4 +1,5 @@
 # dynamic-neural-networks-papers
+
 ## Goal
 This repository aims to organize research on dynamic neural network adaptation methods, including pruning, growing, topology adaptation, and adaptive computation.
 
@@ -16,7 +17,7 @@ Each paper includes:
 - GitHub repository (if available)
 - Keywords
 
-# Number of Papers:17
+## Number of Papers:17
 - Pruning: 4
 - Growing:8
 - Growing + Pruning :3 
