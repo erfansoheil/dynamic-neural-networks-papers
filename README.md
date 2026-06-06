@@ -19,7 +19,7 @@ Each paper includes:
 - Keywords
 
 ## Number of Papers: 21
-- Pruning: 6
+- Pruning: 7
 - Growing: 8
 - Growing and Pruning: 4 
 - Adaptive Computation: 3
