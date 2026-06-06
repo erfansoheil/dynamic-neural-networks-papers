@@ -22,7 +22,7 @@ Each paper includes:
 - Pruning: 6
 - Growing: 8
 - Growing and Pruning: 4 
-- Adaptive Computation: 2
+- Adaptive Computation: 3
 
   
 Last updated: 2 June 2026
