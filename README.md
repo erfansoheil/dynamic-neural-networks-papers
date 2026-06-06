@@ -18,11 +18,11 @@ Each paper includes:
 - GitHub repository (if available)
 - Keywords
 
-## Number of Papers: 20
+## Number of Papers: 21
 - Pruning: 6
 - Growing: 8
 - Growing and Pruning: 4 
 - Adaptive Computation: 3
 
   
-Last updated: 2 June 2026
+Last updated: 6 June 2026
