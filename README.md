@@ -18,7 +18,7 @@ Each paper includes:
 - GitHub repository (if available)
 - Keywords
 
-## Number of Papers: 21
+## Number of Papers: 22
 - Pruning: 7
 - Growing: 8
 - Growing and Pruning: 4 
